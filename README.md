@@ -45,6 +45,13 @@ body {
   color: white;
 }
 
+h1 {
+      color: #eed9bd;
+      font-family: 'Playfair Display', serif;
+      font-size: 36px;
+      margin: 0;
+    }
+    
 .container {
   position: relative;
   text-align: center;
@@ -71,13 +78,6 @@ footer {
   color: white;
 }
     @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
-
-    h1 {
-      color: #eed9bd;
-      font-family: 'Playfair Display', serif;
-      font-size: 36px;
-      margin: 0;
-    }
 
     h2 {
       color: #712f26;
