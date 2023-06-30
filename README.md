@@ -4,10 +4,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
-  margin: 200px;
+  margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   background-color: #eed9bd;
-  padding: 100px;
+  padding: 300px;
 }
 
 .title-box {
