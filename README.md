@@ -45,13 +45,6 @@ body {
   color: white;
 }
 
-h1 {
-  color: #FFF;
-  font-family: 'Playfair Display', serif;
-  font-size: 36px;
-  margin: 0;
-}
-
 .container {
   position: relative;
   text-align: center;
@@ -77,15 +70,7 @@ footer {
   text-align: left;
   color: white;
 }
-</style>
-  <style>
     @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
-    .title-box {
-      background-color: #712f26;
-      padding: 10px;
-      margin-bottom: 20px;
-      text-align: center;
-    }
 
     h1 {
       color: #eed9bd;
@@ -151,8 +136,7 @@ footer {
       padding: 20px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
-
-  </style>
+</style>
 </head>
 <body>
 
@@ -200,7 +184,7 @@ Charts and tables provide you with data-driven insights, enabling you to grasp t
 <br>
  
 <footer>
-  <p>Greta Roana, Silvia Bellavite, Giulia Bergamaschi, Federica Ceccoli</p>
+  <p align="center">Authors: Giulia Bergamaschi, Federica Ceccoli</p>
 </footer>
 
 </body>
