@@ -166,7 +166,7 @@ Charts and tables provide you with data-driven insights, enabling you to grasp t
 
   <div class="section">
     <div class="section-image">
-    <a href="[https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html](https://melody-data.github.io/stories/published_stories/story_1688112091.78641.html)">
+    <a href=https://melody-data.github.io/stories/published_stories/story_1688112091.78641.html>
        <img src="maptheatres.jpg" alt="Image 1" width="400" height="240"/>
   
       <img src="melody.jpg" alt="Image 2" width="400" height="240"/> </a>
