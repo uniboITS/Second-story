@@ -152,8 +152,8 @@ footer {
     <div class="article-text">
       <p>Are you ready to embark on a thrilling journey into the heart and soul of Emilia Romagna's legendary rock scene? Look no further, because our project is here to investigate the popularity of the most famous rock singers and bands born right here in Emilia-Romagna.
 Our mission is clear: to delve deep into the annals of rock history, investigating the rise and reign of rock music within this wonderful Italian region.
-We understand the power of visuals in unravelling the stories behind the most famous rock musicians and bands that have emerged from Emilia Romagna. That's why our project comes alive with a rich tapestry of images, charts, tables, and maps. These captivating visual aids are crafted to enhance your understanding of the impact and popularity of these extraordinary artists.
-With images, when available, we paint a vivid portrait of their charismatic stage presence, capturing the energy and intensity that electrified audiences.
+We understand the power of visuals in unravelling the stories behind the most famous rock musicians and bands that have emerged from Emilia Romagna. That's why our project comes alive with a rich tapestry of images, charts, tables, and maps. These captivating visual aids are crafted to enhance your understanding of the impact and popularity of these extraordinary artists.</p>
+<p>With images, when available, we paint a vivid portrait of their charismatic stage presence, capturing the energy and intensity that electrified audiences.
 Charts and tables provide you with data-driven insights, enabling you to grasp the rise and evolution of these rock musicians and bands. Moreover, discover the most popular music genres in Emilia Romagna, the place of formation and of birth of rock bands and singers, and the influence they exerted on the rock music landscape.</p>
     </div>
     <div class="article-image">
