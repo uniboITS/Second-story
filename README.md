@@ -161,7 +161,8 @@ Charts and tables provide you with data-driven insights, enabling you to grasp t
   </div>
 
   <div class="white-box">
-    <p style="font-family: 'Times New Roman', serif;" >TESTO TESTO ANCORA TESTO. QUI IL LINK ALLA STORIA SU MELODY (E ANCHE SOTTO) <a href="https://melody-data.github.io/stories/published_stories/story_1688112091.78641.html"><span style="color:black"><b>click here</b></span></a> to check out our story on Melody! </p>
+    <p style="font-family: 'Times New Roman', serif;" >What’s interesting is the fact that by investigating the popularity of rock artists and bands in Emilia Romagna we also came across some unexpected results.
+Traditionally, when we think of rock music, our minds gravitate towards iconic bands that have shaped the genre. However, our research sheds light on a captivating twist—the immense online presence and influence of rock singers. Their significant Twitter following defies expectations and showcases their individual magnetism and ability to captivate audiences. <a href="https://melody-data.github.io/stories/published_stories/story_1688112091.78641.html"><span style="color:black"><b>click here</b></span></a> to check out our story on Melody! </p>
   </div>
 
   <div class="section">
