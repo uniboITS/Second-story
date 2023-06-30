@@ -141,10 +141,10 @@ footer {
 
 
   <div class="title-box">
-    <h1>Rock music artists from Emilia-Romagna</h1>
+    <h1>Rock Music Artists and Bands from Emilia-Romagna</h1>
   </div>
 
-  <h2><em>AUTORI DELLA STORIA</em></h2>
+  <h2><em>GIULIA BERGAMASCHI, FEDERICA CECCOLI</em></h2>
   <p class="small-italic">UN PO' DI TESTO QUI</p>
 
 
