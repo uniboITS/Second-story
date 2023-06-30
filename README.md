@@ -7,7 +7,7 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   background-color: #eed9bd;
-  padding: 300px;
+  
 }
 
 .title-box {
@@ -126,7 +126,7 @@ footer {
 
     .small-italic {
       font-style: italic;
-      font-size: 14px;
+      font-size: 16px;
       font-family: 'Times New Roman', serif;
     }
 
