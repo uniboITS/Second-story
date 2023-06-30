@@ -145,14 +145,13 @@ footer {
   </div>
 
   <h2><em>By Giulia Bergamaschi & Federica Ceccoli</em></h2>
-  <p class="small-italic">Are you ready to embark on a thrilling journey into the heart and soul of Emilia Romagna's legendary rock scene? Look no further, because our project is here to investigate the popularity of the most famous rock singers and bands born right here in Emilia-Romagna.
-Our mission is clear: to delve deep into the annals of rock history, investigating the rise and reign of rock music within this captivating Italian region.
-</p>
+  <p class="small-italic">An investigation based on the Wikidata corpus.</p>
 
 
   <div class="article">
     <div class="article-text">
-      <p>MA ANCHE UN PO' DI TESTO QUI</p>
+      <p>Are you ready to embark on a thrilling journey into the heart and soul of Emilia Romagna's legendary rock scene? Look no further, because our project is here to investigate the popularity of the most famous rock singers and bands born right here in Emilia-Romagna.
+Our mission is clear: to delve deep into the annals of rock history, investigating the rise and reign of rock music within this captivating Italian region.</p>
     </div>
     <div class="article-image">
       <img src="https://www.artdictionmagazine.com/wp-content/uploads/2020/02/AdobeStock_287272673-website.jpg" alt="Article Image">
