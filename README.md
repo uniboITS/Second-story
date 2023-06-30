@@ -145,7 +145,9 @@ footer {
   </div>
 
   <h2><em>By Giulia Bergamaschi & Federica Ceccoli</em></h2>
-  <p class="small-italic">UN PO' DI TESTO QUI</p>
+  <p class="small-italic">Are you ready to embark on a thrilling journey into the heart and soul of Emilia Romagna's legendary rock scene? Look no further, because our project is here to investigate the popularity of the most famous rock singers and bands born right here in Emilia-Romagna.
+Our mission is clear: to delve deep into the annals of rock history, investigating the rise and reign of rock music within this captivating Italian region.
+</p>
 
 
   <div class="article">
