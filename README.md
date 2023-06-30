@@ -151,7 +151,7 @@ footer {
   <div class="article">
     <div class="article-text">
       <p>Are you ready to embark on a thrilling journey into the heart and soul of Emilia Romagna's legendary rock scene? Look no further, because our project is here to investigate the popularity of the most famous rock singers and bands born right here in Emilia-Romagna.
-Our mission is clear: to delve deep into the annals of rock history, investigating the rise and reign of rock music within this captivating Italian region.</p>
+Our mission is clear: to delve deep into the annals of rock history, investigating the rise and reign of rock music within this wonderful Italian region.</p>
     </div>
     <div class="article-image">
       <img src="https://www.artdictionmagazine.com/wp-content/uploads/2020/02/AdobeStock_287272673-website.jpg" alt="Article Image">
