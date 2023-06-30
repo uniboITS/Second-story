@@ -145,7 +145,7 @@ footer {
   </div>
 
   <h2><em>By Giulia Bergamaschi & Federica Ceccoli</em></h2>
-  <p class="small-italic">An investigation based on the Wikidata corpus.</p>
+  <p class="small-italic">An investigation on the popularity of Emilia Romagna's rock singers and bands based on the Wikidata corpus.</p>
 
 
   <div class="article">
