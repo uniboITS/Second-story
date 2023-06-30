@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Rock Music artists from Emilia-Romagna</title>
+  <title>Rock Music Artists and Bands from Emilia-Romagna</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
