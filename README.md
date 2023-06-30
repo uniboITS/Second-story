@@ -158,7 +158,7 @@ footer {
   </div>
 
   <div class="white-box">
-    <p style="font-family: 'Times New Roman', serif;" >TESTO TESTO ANCORA TESTO. QUI IL LINK ALLA STORIA SU MELODY (E ANCHE SOTTO) <a href="https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html"><span style="color:black"><b>click here</b></span></a> to check out our story on Melody! </p>
+    <p style="font-family: 'Times New Roman', serif;" >TESTO TESTO ANCORA TESTO. QUI IL LINK ALLA STORIA SU MELODY (E ANCHE SOTTO) <a href="https://melody-data.github.io/stories/published_stories/story_1688112091.78641.html"><span style="color:black"><b>click here</b></span></a> to check out our story on Melody! </p>
   </div>
 
   <div class="section">
