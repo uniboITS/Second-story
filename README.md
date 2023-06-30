@@ -175,7 +175,7 @@ Charts and tables provide you with data-driven insights, enabling you to grasp t
 <br>
  
 <footer>
-  <p>names of every author</p>
+  <p>Greta Roana, Silvia Bellavite, Giulia Bergamaschi, Federica Ceccoli</p>
 </footer>
 
 </body>
