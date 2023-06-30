@@ -4,66 +4,98 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
-  margin: 0;
+  margin: 200px;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: #eed9bd;
+  padding: 100px;
 }
 
- a {
-        color: #fff;
-        text-decoration: none;
-    }
-  
+.title-box {
+      background-color: #712f26;
+      padding: 10px;
+      margin-bottom: 20px;
+      text-align: center;
+}
+
 .topnav {
   overflow: hidden;
-  background-color: #;
+  background-color: #712f26;
 }
 
 .topnav a {
   float: left;
-  color: black;
+  color: #;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  background-color: #fff;
+  border: 1px solid #ccc; /* Added border style */
+  border-radius: 5px; /* Added border radius */
+  transition: background-color 0.3s ease; /* Add transition effect */
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #f6dc9d;
   color: black;
 }
 
 .topnav a.active {
-  background-color: #990a00;
+  background-color: #712f26;
+  color: white;
+}
+
+h1 {
+  color: #FFF;
+  font-family: 'Playfair Display', serif;
+  font-size: 36px;
+  margin: 0;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.top-left {
+  position: absolute;
+  top: 90px;
+  left: 110px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+footer {
+  background-color: #712f26;
+  padding: 10px;
+  text-align: left;
   color: white;
 }
 </style>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
-
-    body {
-      font-family: Arial, sans-serif;
-      background-color: white;
-      color: #333;
-      margin: 0;
-      padding: 20px;
-    }
-
     .title-box {
-      background-color: #990a00;
+      background-color: #712f26;
       padding: 10px;
       margin-bottom: 20px;
       text-align: center;
     }
 
     h1 {
-      color: #FFF;
+      color: #eed9bd;
       font-family: 'Playfair Display', serif;
       font-size: 36px;
       margin: 0;
     }
 
     h2 {
-      color: #990a00;
+      color: #712f26;
       font-family: 'Playfair Display', serif;
       font-size: 20px;
       margin-top: 10px;
@@ -73,10 +105,10 @@ body {
     .article {
       display: flex;
       align-items: center;
-      border: 1px solid #DDD;
+      border: 3px solid #DDD;
       padding: 20px;
       margin-bottom: 20px;
-      background-color: #FFF;
+      background-color:#eed9bd;
     }
 
     .article-text {
@@ -97,9 +129,9 @@ body {
       display: flex;
       justify-content: center;
       margin-top: 22px;
-      border: 1px solid #DDD;
+      border: 3px solid #DDD;
       padding: 8px;
-      background-color: #FFF;
+      background-color:#eed9bd;
     }
 
     .section-image img {
@@ -114,19 +146,11 @@ body {
     }
 
     .white-box {
-      background-color: #FFF;
-      border: 1px solid #DDD;
+      background-color: #eed9bd;
+      border: 3px solid #DDD;
       padding: 20px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
-
-/* Style the footer */
-footer {
-  background-color: #990a00;
-  padding: 10px;
-  text-align: left;
-  color: white;
-}
 
   </style>
 </head>
